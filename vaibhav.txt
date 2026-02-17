@@ -1,0 +1,14 @@
+iSUS@DESKTOP-UR7V9J5 MINGW64 ~/OneDrive/Desktop/Repos/GITHUB Project/Devops_myrepository (main)
+$ git push origin main
+fatal: User canceled device code authentication
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 280 bytes | 280.00 KiB/s, done.
+Total 3 (delta 1), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/vaibhavswami13/Devops_myrepository.git
+   881fa60..f2eeb3c  main -> main
+
+ASUS@DESKTOP-UR7V9J5 MINGW64 ~/OneDrive/Desktop/Repos/GITHUB Project/Devops_myrepository (main)
