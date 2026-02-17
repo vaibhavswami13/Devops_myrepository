@@ -1,0 +1,2 @@
+working with git stash command - fixed
+added new line
